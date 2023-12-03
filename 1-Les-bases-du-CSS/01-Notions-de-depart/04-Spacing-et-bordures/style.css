@@ -1,15 +1,48 @@
 p {
-  font-size: 45px;
+    font-size: 45px;
+    /*!* margin espace entre les éléments ça va pousser nos éléments *!
+    !* margin 20px partout *!
+    margin: 20px;
+
+    !* ou *!
+    margin: 20px 20px 20px 20px;
+
+    !* margin haut/bas - gauche/droite *!
+    margin: 20px 20px;
+
+    !* margin Haut - gauche/droite - bas *!
+    margin: 200px 20px 0px;
+*/
+    /*
+        margin-top: 2px;
+        margin-bottom: 100px;
+        margin-left: 200px;
+        margin-right: 99px;*/
+
+
+    /* Padding remplissage des éléments */
+    padding: 40px;
+    background: coral;
+
+    /*  !* border *!
+      border-width: 10px;
+      border-style: solid;
+      border-color: crimson;*/
+
+    border: 10px solid crimson;
+
+    /* arrondir les angles */
+    border-radius: 9999px;
 }
 
 
-
 span {
-  background: green;
-  font-size: 50px;
-  
-  /* Le padding top et bottom des éléments inline ne poussent pas les autres éléments inline ou block. */
+    background: green;
+    font-size: 50px;
 
+    /* Le padding top et bottom des éléments inline ne poussent pas les autres éléments inline ou block. */
+    /*padding: 80px 10px;*/
 
-  /* Margin top et bottom ne fonctionne pas avec les éléments inline */
+    /* Margin top et bottom ne fonctionne pas avec les éléments inline */
+    margin: 5555555555555px 10px;
 }

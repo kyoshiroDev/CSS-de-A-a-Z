@@ -2,39 +2,69 @@
 /* Ses dimensions sont propres à la qualité et la densité de chaque écran. */
 
 body {
-  background: #333;
+    background: #333;
+    margin: 0;
 }
-/* 
+
+html, body {
+    height: 100%;
+}
+
+/*
   Un élément bloc prend l'entièreté de la largeur de son parent.
-  Sa valeur est "auto".
+  Sa valeur de base pour width est "auto" par défault.
 */
+
+/* Responsive */
+button {
+    display: inline-block;
+    min-width: 150px;
+    padding: 10px 0;
+}
+
 .box {
-  background-color: salmon;
+    /*!* Relative *!
+    /*width: 50%;*/
+
+    /*  !* Absolute *!
+      height: 500px;*/
+    max-width: 1100px;
+    margin: 0 auto;
+    /*margin: 0 50px;*/
+
+    min-width: 800px;
+    /*    height: 2000px;
+        max-height: 200px;*/
+    /*min-height: 200px;*/
+    background-color: salmon;
+
 }
 
 
 .container {
-  width: 400px;
-  height: 400px;
-  background: royalblue;
+    width: 400px;
+    height: 400px;
+    background: royalblue;
 }
 
 .child {
-  height: 50px;
-  background: green;
+    height: 75%;
+    max-height: 100px;
+    max-width: 150px;
+    background: cornsilk;
 }
 
 p {
-  color: #f1f1f1;
-  font-size: 24px;
+    color: #f1f1f1;
+    font-size: 24px;
+    background: royalblue;
 
-  /* min-content = Largeur du contenu le plus grand (ici du mot le plus grand) */
+    /* min-content = Largeur du contenu le plus grand (ici du mot le plus grand) */
+    /*width: min-content;*/
 
+    /* max-content = Longueur totale du contenu sans interuption. Ici la longueur totale de tous les mots. */
+    /*width: max-content;*/
 
-  /* max-content = Longueur totale du contenu sans interuption. Ici la longueur totale de tous les mots. */
-
-
-  
-  /* fit-content = Utilise max-content si ça ne dépasse pas, sinon la largeur disponible, et au minimum min-content. */
-
+    /* fit-content = Utilise max-content si ça ne dépasse pas, sinon la largeur disponible, et au minimum min-content. */
+    width: fit-content;
 }

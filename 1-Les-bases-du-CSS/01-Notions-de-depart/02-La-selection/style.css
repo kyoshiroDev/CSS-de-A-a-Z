@@ -1,32 +1,71 @@
 body {
-  background-color: coral;
+    background-color: coral;
 }
 
 /* Une règle CSS : */
 
+/* Sélecteur */
 
+/* Les balises */
+h1 {
+    /* Composer de déclaration */
+    /* proprété : valeur */
+    color: blue;
+    background: #000;
+}
 
 /* Différents sélecteurs sont disponibles */
 
+/* Les class */
+.title {
+    background-color: darkslategrey;
+    color: cornsilk;
+}
 
+/* Les ID */
+#title-1 {
+    background-color: crimson;
+}
+
+/* Sélectionner un élément avec plusieurs class */
+.title.first-title {
+    padding: 50px;
+}
+
+.container p {
+    font-size: 30px;
+    color: green;
+}
 
 /* On évite les sélections trop longues */
+/* Pas bien */
+html body .container ul li {
+    font-size: 30px;
+}
 
-
+/* Bonne pratique */
+.list-item {
+    font-size: 30px;
+}
 
 /* On donne une classe au parent ou à l'enfant pour faciliter la sélection */
-
-
-/* ou */
-
+.list li {
+    font-size: 30px;
+}
 
 /* Le sélecteur universel "*" sélectionne tout */
-
-
+* {
+    background-color: #000;
+}
 
 /* On l'utilise souvent pour reset */
-
-
+* {
+    margin: 0;
+    padding: 0;
+}
 
 /* On peut aussi l'utiliser dans un élément */
 
+.container * {
+    background-color: pink;
+}
