@@ -1,5 +1,38 @@
 body {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+/* Manipuler les images */
+img {
+    /* 100% du parent */
+    /*width: 100%;*/
+
+    /* 100% de la taille max de l'image */
+    /*max-width: 100%;*/
+
+    /* couper une image pour éviter de la déformer */
+    width: 450px;
+    height: 450px;
+    object-fit: cover;
+    /* Permet de déplacer l'image qu'on a couper avec cover */
+    object-position: 20% 50%;
+}
+
+/* la hero section */
+.hero-section {
+    height: 100vh;
+    /*background-color: coral;*/
+    /*background-image: url("./images/nature.jpg");*/
+    /*!* ajuster la position de l'image *!*/
+    /*background-position: center 0;*/
+    /*!* eviter le découpage de l'image *!*/
+    /*background-size: cover;*/
+    /*!* Annuler la repetition de l'image *!*/
+    /*background-repeat: no-repeat;*/
+
+    /* Propriete raccourci */
+    background: coral url("./images/nature.jpg") center / cover no-repeat;
+}
+

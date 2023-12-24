@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e088a2b1-d0ab-45d8-b917-e60bc884f967" name="Changes" comment="" />
+    <list default="true" id="e088a2b1-d0ab-45d8-b917-e60bc884f967" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +35,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2Z1mgC6EtnHuSkyX08CdbWpXjaZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -65,7 +74,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701598073094</updated>
-      <workItem from="1701598076258" duration="14389000" />
+      <workItem from="1701598076258" duration="20470000" />
+      <workItem from="1703412994966" duration="43000" />
+      <workItem from="1703413073680" duration="33000" />
+      <workItem from="1703413119413" duration="4821000" />
     </task>
     <servers />
   </component>
