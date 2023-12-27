@@ -1,4 +1,15 @@
 body {
-  background: #222;
+    background: #222;
+}
+
+p {
+    margin: 100px auto 0;
+    color: #f1f1f1;
+    font-size: 24px;
+    width: 350px;
+    /* Tronquer un texte */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 

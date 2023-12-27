@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e088a2b1-d0ab-45d8-b917-e60bc884f967" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/Fonts/Stay Classy SLDT.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/Fonts/Stay Classy SLDT.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/01-Styliser-une-image/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/02-Medias/02-Styliser-une-video/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/01-Les-proprietes-du-texte/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/02-Google-font/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/02-Google-font/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/02-Google-font/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/02-Google-font/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/04-Tronquer-un-texte/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/04-Tronquer-un-texte/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/04-Tronquer-un-texte/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/04-Tronquer-un-texte/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/01-Coder-un-bouton/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/01-Coder-un-bouton/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/01-Coder-un-bouton/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/01-Coder-un-bouton/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/02-La-carte/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/02-La-carte/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/02-La-carte/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/02-La-carte/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/03-Article-de-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/03-Article-de-blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/03-Article-de-blog/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/03-Article-de-blog/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/Exercices-corriges/01-Coder-un-bouton/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1-Les-bases-du-CSS/Exercices/Exercices-corriges/01-Coder-un-bouton/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +40,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -55,6 +67,7 @@
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/greg/Documents/Leçon Enzo/CSS-de-A-a-Z/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/Fonts",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,6 +79,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1-Les-bases-du-CSS/03-Texte/03-Utiliser-une-police-personnalisee/Fonts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +95,7 @@
       <workItem from="1701598076258" duration="20470000" />
       <workItem from="1703412994966" duration="43000" />
       <workItem from="1703413073680" duration="33000" />
-      <workItem from="1703413119413" duration="4821000" />
+      <workItem from="1703413119413" duration="15651000" />
     </task>
     <servers />
   </component>
